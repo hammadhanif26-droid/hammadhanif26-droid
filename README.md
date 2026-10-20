@@ -11,6 +11,7 @@ I turn raw business data into clear, honest insights. I care about using the rig
 | Project | Description | Tools |
 |---|---|---|
 | [**Customer Churn Prediction**](https://github.com/hammadhanif26-droid/customer-churn-prediction) | End-to-end ML pipeline to predict which SaaS clients are likely to churn: EDA, feature engineering, stratified CV, comparison of 5 models (LogReg, RF, GBM, XGBoost), GridSearch tuning, and a pipeline sanity check. | Python, scikit-learn, XGBoost, pandas |
+| [**British Airways Booking Prediction**](https://github.com/hammadhanif26-droid/british-airways-booking-prediction) | Random Forest model predicting whether customers complete a flight booking (50,000 records, test ROC-AUC 0.78, 76% recall on bookers), with feature-importance insights for targeted marketing. Forage virtual experience. | Python, scikit-learn, pandas |
 | [**FMCG Retail Sales Analysis**](https://github.com/hammadhanif26-droid/Sales-Data-Analysis) | Analysis of 100,000 FMCG transactions across 8 cities: Pareto / ABC analysis, channel and store-format dynamics, loyalty vs. basket size, and seasonality, backed by ANOVA and t-tests. | Python, pandas, seaborn, SciPy |
 
 ## 🛠️ Tech Stack
